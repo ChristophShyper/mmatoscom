@@ -5,7 +5,7 @@
 
 `DevOps, Security, Crypto, 
 Linux, Docker, Ansible,
-Golang, Julia, Bash`
+Golang, Julia, Lua, Bash`
 
 `Familia Supra Omnia`
 
