@@ -11,5 +11,5 @@ Golang, Julia, Lua, Bash`
 
 ![alt text](https://github.com/mmatoscom/mmatoscom.github.io/blob/master/mmatos.jpg)
 
-[![mmatoscom's github stats](https://github-readme-stats.vercel.app/api?username=mmatoscom)](https://github.com/mmatoscom/github-readme-stats)
+[![mmatoscom's github stats](https://github-readme-stats.vercel.app/api?username=mmatoscom)
 
