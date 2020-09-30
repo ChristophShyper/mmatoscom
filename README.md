@@ -1,7 +1,7 @@
 
 
 
-`~~Hacker~~ working from home`
+~~Hacker~~ `working from home`
 
 `DevOps, Security, Crypto, 
 Linux, Docker, Ansible,
